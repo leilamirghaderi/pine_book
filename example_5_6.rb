@@ -8,5 +8,4 @@ puts 'What\'s your last name?'
 my_last_name = ' Mirghaderi'
 puts 'my last name is'+ my_last_name+'.'
 puts 'So, what\'s your full name?'
-full_name = my_first_name + my_middle_name + my_last_name
-puts 'My full name is' + full_name + '.'
+puts 'My full name is' + my_first_name + my_middle_name + my_first_name + '.'
