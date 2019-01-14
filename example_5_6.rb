@@ -1,0 +1,12 @@
+puts 'Hi, what\'s your first name?'
+my_first_name = ' Leila'
+puts 'My firs name is'+ my_first_name + '.'
+puts 'What\'s your middle name?'
+my_middle_name = ' Sadat'
+puts 'My middle name is' + my_middle_name + '.'
+puts 'What\'s your last name?'
+my_last_name = ' Mirghaderi'
+puts 'my last name is'+ my_last_name+'.'
+puts 'So, what\'s your full name?'
+full_name = my_first_name + my_middle_name + my_last_name
+puts 'My full name is' + full_name + '.'
