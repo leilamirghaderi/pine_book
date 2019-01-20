@@ -9,6 +9,11 @@ puts var1
 puts var2
 puts var3
 
+puts 'What is your full name?'
+name = gets.chomp
+puts 'Did you know there are ' + name.  length.to_s + ' characters'
+puts 'in your name, ' + name + '?'
+
 # OUTPUT:
 #
 # pots
@@ -17,3 +22,7 @@ puts var3
 # stop
 # deliver rapid desserts
 # ....TCELES B HSUP A magic spell?
+# What is your full name?
+# Leilasadat Mirghaderi
+# Did you know there are 21 characters
+# in your name, Leilasadat Mirghaderi?
