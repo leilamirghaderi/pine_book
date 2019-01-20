@@ -23,3 +23,22 @@ puts ''
 var1 = 'eight'
 puts var1
 puts var2
+
+# OUTPUT:
+#
+# ...you can say that agian...
+# ...you can say that again...
+# ...you can say that again...
+# ...you can say that again...
+# My name is Leilasadat Mieghaderi.
+# Wow! Leilasadat Mieghaderi
+# is a really long name!
+# Mozart was "da bomb" in his day.
+# But I prefer Beethoven, personally.
+# just anothr string
+# 15
+# 8
+# 8
+# (empty string)
+# eight
+# 8
