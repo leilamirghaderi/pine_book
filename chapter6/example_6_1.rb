@@ -34,3 +34,9 @@ puts letters
 # Leilasadat Mirghaderi
 # Did you know there are 21 characters
 # in your name, Leilasadat Mirghaderi?
+# AABBCCDDEE
+# aabbccddee
+# AaBbCcDdEe
+# Aabbccddee
+#  a
+# aAbBcCdDeE
