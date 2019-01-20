@@ -12,3 +12,18 @@ puts 'Your momma did.'.to_f
 puts ''
 puts 'stringy'.to_s
 puts 3.to_i
+
+# OUTPUT:
+#
+# 25
+# 7
+# 15.0
+# 99.999
+# 99
+# (empty string)
+# 5
+# 0
+# 0.0
+# (empty string)
+# stringy
+# 3
