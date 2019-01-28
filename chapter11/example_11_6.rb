@@ -1,3 +1,4 @@
+#this program made txt file and wrote the string in YAML format in it.
 require 'yaml'
 def yaml_save object, filename
   File.open filename, 'w' do |f|
