@@ -35,5 +35,5 @@ end
 
 # OUTPUT (number 3):
 #
-buritiate mustripe lablic acticise
-buritiate mustripe lablic acticise
+# buritiate mustripe lablic acticise
+# buritiate mustripe lablic acticise
