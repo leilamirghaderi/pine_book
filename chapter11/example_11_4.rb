@@ -1,3 +1,4 @@
+#this program made txt file and wrote the string in YAML format in it.
 require 'yaml'
 test_array = ['Give Quiche A Chance',
   'Mutants Out!',
