@@ -1,3 +1,5 @@
+
+#this program made txt file and wrote the string in it.
 filename = 'ListerQuote.txt'
 test_string = 'I promise that I swear absolutely that ' +
 'I will never mention gazpacho soup again.'
