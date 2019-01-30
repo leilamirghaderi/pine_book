@@ -64,7 +64,7 @@ def roman_numeral num
   end
   roman
 end
-puts(roman_numeral(1999))
+puts(roman_numeral(1346))
 
 
 
@@ -91,4 +91,4 @@ puts(roman_numeral(1999))
 # MCCCXXXXVI
 
 # OUTPUT Try three (Modern” Roman numerals):
-# MCMXCIX
+# MCCCXLVI
